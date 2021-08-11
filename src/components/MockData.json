@@ -1,0 +1,60 @@
+
+[
+    {
+        "user_id": 1,
+        "post id": 11, 
+        "author": "DG Stache",
+        "date": "08-05-2020",
+        "post": "Yo whatup, check out my mustache",
+        "status":"Approved"
+         
+    },
+    {   
+        "user_id": 2,
+        "post id": 12, 
+        "author": "Justin",
+        "date": "08-06-2020",
+        "post": "Yo whatup, check out my beard",
+        "status":"Rejected"
+    },
+    {
+        "user_id": 3,
+        "post id": 13, 
+        "author": "Jayrinne",
+        "date": "08-05-2020",
+        "post": "I'm so creative right",
+        "status":"Approved"
+    },
+    {
+        "user_id": 4,
+        "post id": 14, 
+        "author": "DG Stache",
+        "date": "08-05-2020",
+        "post": "I hate all interns so much <3",
+        "status":"Pending"
+    },
+    {
+        "user_id": 5,
+        "post id": 15, 
+        "author": "Jenna",
+        "date": "08-05-2020",
+        "post": "I love cats",
+        "status": "Approved"
+    },
+    {
+        "user_id": 6,
+        "post id": 16, 
+        "author": "Quan",
+        "date": "08-05-2020",
+        "post": "I hate investment banking",
+        "status": "Pending"
+        },
+        {
+        "user_id": 7,
+        "post id": 17, 
+        "author": "Franzi",
+        "date": "08-05-2020",
+        "post": "Sergio's the coolest",
+        "status": "Pending"
+        }
+]
